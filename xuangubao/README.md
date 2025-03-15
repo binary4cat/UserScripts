@@ -12,18 +12,22 @@
 - 移除数据表格中的水印，无干扰，看的更清晰
 - 添加更多实时数据按钮，可以查看更多股市数据，直接起飞
 
-    ![Snipaste_2025-03-15_18-03-59.jpg](https://uchat.cn-bj.ufileos.com/rw_8f8b3a80-ec89-40de-8f11-ed17a2dc764d_Snipaste_2025-03-15_18-03-59.jpg)
+    ![Snipaste_2025-03-15_18-03-59.jpg](./assets/Snipaste_2025-03-15_18-03-59.jpg)
   - 板块强度：查看真实的板块强度排序（非直接按涨幅排序），更精准把握主线板块
-        ![Snipaste_2025-03-15_18-05-01.jpg](https://uchat.cn-bj.ufileos.com/rw_68ab2e76-87cc-4278-989b-8efb389cef20_Snipaste_2025-03-15_18-05-01.jpg)
+        ![Snipaste_2025-03-15_18-05-01.jpg](./assets/Snipaste_2025-03-15_18-05-01.jpg)
   - 大幅回撤数据：查看昨日涨停，今日大面股票，大面太多，需要谨慎
-        ![Snipaste_2025-03-15_18-08-03.jpg](https://uchat.cn-bj.ufileos.com/rw_63e1912f-0290-46df-8281-f0bc1869d678_Snipaste_2025-03-15_18-08-03.jpg)
+        ![Snipaste_2025-03-15_18-08-03.jpg](./assets/Snipaste_2025-03-15_18-08-03.jpg)
   - 权重表现：查看指数权重板块的表现怎么样，看看是题材强还是权重指数强，做到心中有数
-        ![Snipaste_2025-03-15_18-09-23.jpg](https://uchat.cn-bj.ufileos.com/rw_ce356ea4-2071-407b-a8b9-e939b20eec34_Snipaste_2025-03-15_18-09-23.jpg)
+        ![Snipaste_2025-03-15_18-09-23.jpg](./assets/Snipaste_2025-03-15_18-09-23.jpg)
   - 异动停牌：查看即将异动股票和进入重点监控的股票，连板高度未突破时还是要注意，一个进入监管期，直接按到地板上摩擦（多次异动数据还未增加，后续再说）
-        ![Snipaste_2025-03-15_18-10-42.jpg](https://uchat.cn-bj.ufileos.com/rw_7d9c1c8d-e0c0-4232-a80a-6ab8b131d3d3_Snipaste_2025-03-15_18-10-42.jpg)
+        ![Snipaste_2025-03-15_18-10-42.jpg](./assets/Snipaste_2025-03-15_18-10-42.jpg)
   - 板块轮动：查看近10日热门板块都是什么，以及排名靠前的板块的轮动规则，踏好节奏比追涨杀跌更省钱
-        ![Snipaste_2025-03-15_18-12-53.jpg](https://uchat.cn-bj.ufileos.com/rw_0ed920d6-8305-4be7-952f-603c56da2e0b_Snipaste_2025-03-15_18-12-53.jpg)
+        ![Snipaste_2025-03-15_18-12-53.jpg](./assets/Snipaste_2025-03-15_18-12-53.jpg)
 - 数据列表中相同板块的股票设置背景色，更直观看到哪个板块的涨跌停数据最多（背景颜色随机，暂时还不能自定义）
 
 
 以上就是全部功能介绍了，更多功能看情况增加，祝各位股友天天涨停，月月翻倍，年年发财。
+
+## 手动安装
+
+由于使用了外部UI框架，发布不到greasyfork里面，所以需要手动安装，直接点击油猴扩展，点击创建新脚本，然后打开这个[链接](https://raw.githubusercontent.com/binary4cat/UserScripts/refs/heads/main/xuangubao/xuangubao.js)，把里面的内容复制到打开的编辑器里面，按 `Ctrl + s`保存就可以了，后续更新会直接原链接更新。
